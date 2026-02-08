@@ -82,22 +82,19 @@ function buildReadmeIndexBlock(repoCount: number): string {
     `![Last Updated](https://img.shields.io/badge/Updated-${updatedDate.replace(/-/g, "--")}-${COLORS.generated}?style=${BADGE_STYLE.header})`,
   ].join(" ");
 
-  const navEntries = (
-    [
-      "topStarred",
-      "topForked",
-      "topSubscribed",
-      "topIssues",
-      "topLargest",
-      "activity",
-    ] as const
-  ).map((id) => {
+  const navEntryIds = [
+    "topStarred",
+    "topForked",
+    "topSubscribed",
+    "topIssues",
+    "topLargest",
+    "activity",
+  ] as const;
+
+  const navCells = navEntryIds.map((id) => {
     const copy = LEADERBOARD_COPY[id];
     const label = encodeURIComponent(`${copy.icon} ${copy.badgeLabel}`);
-    return `      <a href="./${copy.filename}">
-        <img src="https://img.shields.io/badge/${label}-${copy.badgeColor}?style=${BADGE_STYLE.header}" /><br>
-        <sub><b>${copy.badgeLabel}</b></sub>
-      </a>`;
+    return `    <td align="center"><a href="./${copy.filename}"><img src="https://img.shields.io/badge/${label}-${copy.badgeColor}?style=${BADGE_STYLE.header}" /></a></td>`;
   });
 
   const allReposCopy = LEADERBOARD_COPY.allRepos;
@@ -117,10 +114,10 @@ function buildReadmeIndexBlock(repoCount: number): string {
     "",
     "<table>",
     "  <tr>",
-    navEntries.slice(0, 3).join("\n    <td>&nbsp;&nbsp;</td>\n"),
+    navCells.slice(0, 3).join("\n"),
     "  </tr>",
     "  <tr>",
-    navEntries.slice(3).join("\n    <td>&nbsp;&nbsp;</td>\n"),
+    navCells.slice(3).join("\n"),
     "  </tr>",
     "</table>",
     "",
