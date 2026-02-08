@@ -103,8 +103,6 @@ function buildReadmeIndexBlock(repoCount: number): string {
   );
 
   return [
-    navigationBar("readme"),
-    "",
     `<div align="center">`,
     "",
     statBadges,
