@@ -1,0 +1,6 @@
+node_modules/
+.env
+gathered.md
+raw-response.tmp.json
+dist/
+.output/

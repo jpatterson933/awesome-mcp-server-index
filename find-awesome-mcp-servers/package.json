@@ -1,0 +1,21 @@
+{
+  "name": "find-awesome-mcp-servers",
+  "version": "1.0.0",
+  "description": "Scrapes GitHub for awesome-mcp repos and outputs markdown",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --noEmit && tsup",
+    "find": "npx tsx src/index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "octokit": "^4.0.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsup": "^8.5.1",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
