@@ -43,7 +43,7 @@
 
 <div align="center">
 
-![Total Repos](https://img.shields.io/badge/Total_Repos-246-blue?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Updated-2026--02--08-green?style=for-the-badge)
+![Total Repos](https://img.shields.io/badge/Total_Repos-246-1E40AF?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Updated-2026--02--08-059669?style=for-the-badge)
 
 </div>
 
@@ -52,42 +52,20 @@
 
 <table>
   <tr>
-      <a href="./TOP-STARRED.md">
-        <img src="https://img.shields.io/badge/%E2%AD%90%20Top%20Starred-FFD700?style=for-the-badge" /><br>
-        <sub><b>Top Starred</b></sub>
-      </a>
-    <td>&nbsp;&nbsp;</td>
-      <a href="./TOP-FORKED.md">
-        <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Top%20Forked-5B2DAD?style=for-the-badge" /><br>
-        <sub><b>Top Forked</b></sub>
-      </a>
-    <td>&nbsp;&nbsp;</td>
-      <a href="./TOP-SUBSCRIBED.md">
-        <img src="https://img.shields.io/badge/%F0%9F%91%80%20Top%20Watched-8E24AA?style=for-the-badge" /><br>
-        <sub><b>Top Watched</b></sub>
-      </a>
+    <td align="center"><a href="./TOP-STARRED.md"><img src="https://img.shields.io/badge/%E2%AD%90%20Top%20Starred-F5A623?style=for-the-badge" /></a></td>
+    <td align="center"><a href="./TOP-FORKED.md"><img src="https://img.shields.io/badge/%F0%9F%8D%B4%20Top%20Forked-7C3AED?style=for-the-badge" /></a></td>
+    <td align="center"><a href="./TOP-SUBSCRIBED.md"><img src="https://img.shields.io/badge/%F0%9F%91%80%20Top%20Watched-0891B2?style=for-the-badge" /></a></td>
   </tr>
   <tr>
-      <a href="./TOP-ISSUES.md">
-        <img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Top%20Issues-E64727?style=for-the-badge" /><br>
-        <sub><b>Top Issues</b></sub>
-      </a>
-    <td>&nbsp;&nbsp;</td>
-      <a href="./TOP-LARGEST.md">
-        <img src="https://img.shields.io/badge/%F0%9F%92%BE%20Top%20Largest-737894?style=for-the-badge" /><br>
-        <sub><b>Top Largest</b></sub>
-      </a>
-    <td>&nbsp;&nbsp;</td>
-      <a href="./ACTIVITY.md">
-        <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Activity-FF4500?style=for-the-badge" /><br>
-        <sub><b>Activity</b></sub>
-      </a>
+    <td align="center"><a href="./TOP-ISSUES.md"><img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Top%20Issues-DC2626?style=for-the-badge" /></a></td>
+    <td align="center"><a href="./TOP-LARGEST.md"><img src="https://img.shields.io/badge/%F0%9F%92%BE%20Top%20Largest-64748B?style=for-the-badge" /></a></td>
+    <td align="center"><a href="./ACTIVITY.md"><img src="https://img.shields.io/badge/%F0%9F%94%A5%20Activity-EA580C?style=for-the-badge" /></a></td>
   </tr>
 </table>
 
 <div align="center">
 
-[![All Repos](https://img.shields.io/badge/%F0%9F%93%8B%20All%20Repos-000000?style=for-the-badge&logo=github&logoColor=white)](./AWESOME-MCP-REPOS.md)
+[![All Repos](https://img.shields.io/badge/%F0%9F%93%8B%20All%20Repos-0F172A?style=for-the-badge&logo=github&logoColor=white)](./AWESOME-MCP-REPOS.md)
 
 </div>
 

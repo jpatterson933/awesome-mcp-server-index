@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Home](https://img.shields.io/badge/Home-000?style=flat-square&logo=github)](./README.md) [![Starred](https://img.shields.io/badge/%E2%AD%90%20Starred-FFD700?style=flat-square&logo=github)](./TOP-STARRED.md) [![Forked](https://img.shields.io/badge/%F0%9F%8D%B4%20Forked-5B2DAD?style=flat-square&logo=github)](./TOP-FORKED.md) [![Watched](https://img.shields.io/badge/%F0%9F%91%80%20Watched-8E24AA?style=flat-square&logo=github)](./TOP-SUBSCRIBED.md) [![Issues](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Issues-E64727?style=flat-square&logo=github)](./TOP-ISSUES.md) [![Largest](https://img.shields.io/badge/%F0%9F%92%BE%20Largest-737894?style=flat-square&logo=github)](./TOP-LARGEST.md) [![Activity](https://img.shields.io/badge/%F0%9F%94%A5%20Activity-FF4500?style=flat-square&logo=github)](./ACTIVITY.md) [![All Repos](https://img.shields.io/badge/%F0%9F%93%8B%20All%20Repos-000000?style=for-the-badge&logo=github)](./AWESOME-MCP-REPOS.md)
+[![Home](https://img.shields.io/badge/Home-0F172A?style=flat-square&logo=github)](./README.md) [![Starred](https://img.shields.io/badge/%E2%AD%90%20Starred-F5A623?style=flat-square&logo=github)](./TOP-STARRED.md) [![Forked](https://img.shields.io/badge/%F0%9F%8D%B4%20Forked-7C3AED?style=flat-square&logo=github)](./TOP-FORKED.md) [![Watched](https://img.shields.io/badge/%F0%9F%91%80%20Watched-0891B2?style=flat-square&logo=github)](./TOP-SUBSCRIBED.md) [![Issues](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Issues-DC2626?style=flat-square&logo=github)](./TOP-ISSUES.md) [![Largest](https://img.shields.io/badge/%F0%9F%92%BE%20Largest-64748B?style=flat-square&logo=github)](./TOP-LARGEST.md) [![Activity](https://img.shields.io/badge/%F0%9F%94%A5%20Activity-EA580C?style=flat-square&logo=github)](./ACTIVITY.md) [![All Repos](https://img.shields.io/badge/%F0%9F%93%8B%20All%20Repos-0F172A?style=for-the-badge&logo=github)](./AWESOME-MCP-REPOS.md)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 **Every awesome-mcp repository on GitHub. Sorted, enriched, and updated daily.**
 
-![Generated](https://img.shields.io/badge/Generated-2026--02--08-green?style=flat-square)
+![Generated](https://img.shields.io/badge/Generated-2026--02--08-059669?style=flat-square)
 
 </div>
 
@@ -20,15 +20,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/246-blue?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/246-1E40AF?style=for-the-badge" /><br>
       <sub>Total Repositories</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/110k%2B-FFD700?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/110k%2B-F5A623?style=for-the-badge" /><br>
       <sub>Combined Stars</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/10k%2B-5B2DAD?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/11k%2B-7C3AED?style=for-the-badge" /><br>
       <sub>Combined Forks</sub>
     </td>
   </tr>
@@ -46,8 +46,8 @@
 
 ```mermaid
 pie title Repos by License
-    "MIT" : 99
     "No License" : 121
+    "MIT" : 99
     "Other" : 7
     "Apache 2.0" : 9
     "Creative Commons" : 10
@@ -57,31 +57,33 @@ pie title Repos by License
 
 | Repository | Stars | Forks | License | Created | Updated | Description |
 | ---------- | ----: | ----: | ------- | ------- | ------- | ----------- |
+| [jpatterson933/awesome-mcp-server-index](https://github.com/jpatterson933/awesome-mcp-server-index) | 0 | 0 | - | 2026-02-05 | 2026-02-08 | A collection of existing actively managed or inactive awesome-mcp server collections |
+| [ayaanjan76/awesome-mcp-servers](https://github.com/ayaanjan76/awesome-mcp-servers) | 1 | 0 | MIT License | 2025-10-02 | 2026-02-08 | 🚀 Explore a curated collection of top Model Context Protocol (MCP) servers for seamless connectivity and enhanced experiences in your projects. |
+| [umairakrm007/awesome-mcp-servers](https://github.com/umairakrm007/awesome-mcp-servers) | 1 | 0 | MIT License | 2021-03-10 | 2026-02-08 | 🚀 Discover and deploy powerful MCP servers with curated setups, templates, and tools to enhance your Minecraft experience effortlessly. |
 | [vivekkeditz/Awesome-MCP-ZH](https://github.com/vivekkeditz/Awesome-MCP-ZH) | 0 | 0 | MIT License | 2025-04-05 | 2026-02-08 | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients |
 | [roti-c137/awesome-mcp](https://github.com/roti-c137/awesome-mcp) | 1 | 1 | - | 2025-04-15 | 2026-02-08 | - |
 | [ojlee6207/awesome-offensive-mcp](https://github.com/ojlee6207/awesome-offensive-mcp) | 7 | 0 | Other | 2023-12-14 | 2026-02-08 | 🛠️ Discover curated MCP servers for Red Teaming and Pentesting, enhancing your offensive security tools with essential resources for effective vulnerability research. |
-| [Rodert/awesome-mcp](https://github.com/Rodert/awesome-mcp) | 0 | 0 | Apache License 2.0 | 2025-11-22 | 2026-02-08 | A curated list of MCP servers and related resources. |
-| [jpatterson933/awesome-mcp-server-index](https://github.com/jpatterson933/awesome-mcp-server-index) | 0 | 0 | - | 2026-02-05 | 2026-02-08 | A collection of existing actively managed or inactive awesome-mcp server collections |
 | [timunbasah3/awesome-mcp](https://github.com/timunbasah3/awesome-mcp) | 10 | 2 | - | 2025-08-10 | 2026-02-08 | 🚀 Discover and explore a curated list of MCP servers, tools, and resources for AI assistants, enhancing your development and productivity. |
-| [ayaanjan76/awesome-mcp-servers](https://github.com/ayaanjan76/awesome-mcp-servers) | 1 | 0 | MIT License | 2025-10-02 | 2026-02-08 | 🚀 Explore a curated collection of top Model Context Protocol (MCP) servers for seamless connectivity and enhanced experiences in your projects. |
-| [umairakrm007/awesome-mcp-servers](https://github.com/umairakrm007/awesome-mcp-servers) | 1 | 0 | MIT License | 2021-03-10 | 2026-02-08 | 🚀 Discover and deploy powerful MCP servers with curated setups, templates, and tools to enhance your Minecraft experience effortlessly. |
+| [Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) | 651 | 55 | - | 2025-04-08 | 2026-02-08 | 🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️ |
+| [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | 1 | 0 | MIT License | 2025-12-25 | 2026-02-08 | Curated list of Model Context Protocol (MCP) servers, clients, and frameworks. Automatically updated daily. |
+| [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | 25 | 9 | MIT License | 2025-05-19 | 2026-02-08 | A Curated List of MCP Servers, Clients and Toolkits |
+| [Rodert/awesome-mcp](https://github.com/Rodert/awesome-mcp) | 0 | 0 | Apache License 2.0 | 2025-11-22 | 2026-02-08 | A curated list of MCP servers and related resources. |
 | [sunnamed434/awesome-mcp-registry](https://github.com/sunnamed434/awesome-mcp-registry) | 0 | 0 | MIT License | 2026-02-05 | 2026-02-08 | AI-curated, self-updating directory of MCP servers. Discovered from GitHub & the official registry, analyzed and ranked by AI weekly. |
 | [NeuralRays/awesome-mcp-hub](https://github.com/NeuralRays/awesome-mcp-hub) | 0 | 0 | MIT License | 2026-02-08 | 2026-02-08 | The curated, comprehensive directory of MCP servers and clients — with quality reviews, compatibility info, and difficulty ratings. |
-| [gauravfs-14/awesome-mcp](https://github.com/gauravfs-14/awesome-mcp) | 9 | 0 | Other | 2025-06-15 | 2026-02-08 | A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Model Context Protocol (MCP) — a novel paradigm designed to enable modular, adaptive coordination between large language models (LLMs) and external tools or data contexts. |
+| [gauravfs-14/awesome-mcp](https://github.com/gauravfs-14/awesome-mcp) | 10 | 0 | Other | 2025-06-15 | 2026-02-08 | A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Model Context Protocol (MCP) — a novel paradigm designed to enable modular, adaptive coordination between large language models (LLMs) and external tools or data contexts. |
 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | 1,020 | 34 | Apache License 2.0 | 2025-11-06 | 2026-02-08 | A curated list of Model Context Protocol (MCP) servers  |
-| [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | 1 | 0 | MIT License | 2025-12-25 | 2026-02-07 | Curated list of Model Context Protocol (MCP) servers, clients, and frameworks. Automatically updated daily. |
 | [RbBtSn0w/awesome-copilot-mcp](https://github.com/RbBtSn0w/awesome-copilot-mcp) | 1 | 0 | MIT License | 2026-01-29 | 2026-02-07 | A Model Context Protocol (MCP) server that provides access to awesome-copilot agents and collection resources. |
 | [JustInCache/awesome-mcp-collection](https://github.com/JustInCache/awesome-mcp-collection) | 5 | 0 | MIT License | 2026-02-02 | 2026-02-06 | The most comprehensive, curated collection of MCP servers with ready-to-use configurations |
 | [SciSharp/Awesome-DotNET-MCP](https://github.com/SciSharp/Awesome-DotNET-MCP) | 123 | 15 | Creative Commons Zero v1.0 Universal | 2025-03-13 | 2026-02-05 | Awesome ModelContextProtocol resources - A curated list of MCP DotNET resources |
 | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | 537 | 85 | MIT License | 2025-04-04 | 2026-02-05 | A comprehensive collection of Model Context Protocol (MCP) servers |
-| [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | 77 | 16 | Creative Commons Zero v1.0 Universal | 2025-12-10 | 2026-02-04 | A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintained, production-ready integrations. |
-| [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | 6,081 | 382 | MIT License | 2025-04-03 | 2026-02-04 | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients |
-| [bh-rat/awesome-mcp-enterprise](https://github.com/bh-rat/awesome-mcp-enterprise) | 98 | 21 | - | 2025-08-12 | 2026-02-04 | A curated list of awesome MCP (Model Context Protocol) tools, platforms, and services for enterprises. |
+| [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | 80 | 17 | Creative Commons Zero v1.0 Universal | 2025-12-10 | 2026-02-04 | A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintained, production-ready integrations. |
+| [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | 6,084 | 383 | MIT License | 2025-04-03 | 2026-02-04 | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients |
+| [bh-rat/awesome-mcp-enterprise](https://github.com/bh-rat/awesome-mcp-enterprise) | 98 | 22 | - | 2025-08-12 | 2026-02-04 | A curated list of awesome MCP (Model Context Protocol) tools, platforms, and services for enterprises. |
 | [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) | 992 | 139 | MIT License | 2025-04-06 | 2026-02-03 | Remote MCP Servers |
 | [shadowrootdev/awesome-agent-skills-mcp](https://github.com/shadowrootdev/awesome-agent-skills-mcp) | 2 | 0 | MIT License | 2026-02-03 | 2026-02-03 | MCP server providing 100+ AI agent skills from Anthropic, Vercel, Trail of Bits, Hugging Face & more. Works with Claude, GitHub Copilot, and any MCP client. |
 | [Daeda-Technologies-Ltd/Awesome-MCP-Servers](https://github.com/Daeda-Technologies-Ltd/Awesome-MCP-Servers) | 3 | 0 | Creative Commons Zero v1.0 Universal | 2026-02-03 | 2026-02-03 | A curated list of MCP servers that we've actually tested and can vouch for |
 | [fuzzylabs/awesome-secure-mcp-servers](https://github.com/fuzzylabs/awesome-secure-mcp-servers) | 0 | 1 | MIT License | 2025-06-24 | 2026-02-08 | A curated list of Model Context Protocol (MCP) servers with comprehensive security validation using the mcp-scan security assessment pipeline |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 80,504 | 7,073 | MIT License | 2024-11-30 | 2026-02-01 | A collection of MCP servers. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 80,538 | 7,083 | MIT License | 2024-11-30 | 2026-02-01 | A collection of MCP servers. |
 | [korchasa/awesome-mcp](https://github.com/korchasa/awesome-mcp) | 2 | 0 | Creative Commons Zero v1.0 Universal | 2025-02-27 | 2026-01-31 | This curated list focuses on tools, implementations, and resources for the Model Context Protocol |
 | [dingodb/awesome-dingodb-mcp](https://github.com/dingodb/awesome-dingodb-mcp) | 1 | 1 | - | 2026-01-29 | 2026-01-30 | MCP Server for DingoDB database and its tools |
 | [ondatra-ai/awesome-claude-mcp](https://github.com/ondatra-ai/awesome-claude-mcp) | 0 | 0 | MIT License | 2025-09-06 | 2026-01-27 | - |
@@ -92,8 +94,8 @@ pie title Repos by License
 | [BlockRunAI/awesome-productivity-mcp](https://github.com/BlockRunAI/awesome-productivity-mcp) | 1 | 0 | - | 2026-01-17 | 2026-01-25 | A curated list of MCP servers for productivity tools |
 | [BlockRunAI/awesome-ai-mcp](https://github.com/BlockRunAI/awesome-ai-mcp) | 0 | 0 | - | 2026-01-17 | 2026-01-24 | A curated list of MCP servers for AI and machine learning |
 | [BlockRunAI/awesome-devops-mcp](https://github.com/BlockRunAI/awesome-devops-mcp) | 1 | 0 | - | 2026-01-17 | 2026-01-24 | A curated list of MCP servers for DevOps and cloud infrastructure |
-| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 6,269 | 503 | MIT License | 2025-01-11 | 2026-01-23 | A collection of MCP clients. |
-| [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) | 413 | 100 | MIT License | 2025-04-27 | 2026-01-23 | A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development. |
+| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 6,270 | 503 | MIT License | 2025-01-11 | 2026-01-23 | A collection of MCP clients. |
+| [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) | 414 | 101 | MIT License | 2025-04-27 | 2026-01-23 | A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development. |
 | [linoleivabadass-netizen/My-Awesome-MCP-Server](https://github.com/linoleivabadass-netizen/My-Awesome-MCP-Server) | 0 | 0 | - | 2026-01-22 | 2026-01-22 | My Awesome MCP Server - created on ICP Ninja |
 | [BlockRunAI/awesome-ecommerce-mcp](https://github.com/BlockRunAI/awesome-ecommerce-mcp) | 2 | 0 | - | 2026-01-17 | 2026-01-22 | A curated list of MCP servers for e-commerce and retail |
 | [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) | 133 | 22 | Creative Commons Zero v1.0 Universal | 2024-11-29 | 2026-01-22 | Awesome ModelContextProtocol resources - A curated list of MCP resources |
@@ -106,23 +108,22 @@ pie title Repos by License
 | [MorDavid/awesome-cyber-security-mcp](https://github.com/MorDavid/awesome-cyber-security-mcp) | 74 | 10 | Other | 2025-04-04 | 2026-01-16 | - |
 | [beriberikix/awesome-mcp-hardware](https://github.com/beriberikix/awesome-mcp-hardware) | 10 | 0 | Apache License 2.0 | 2025-11-07 | 2026-01-15 | Awesome list of MCP servers for interacting with hardware and the physical world. |
 | [R00T-Kim/awesome-offensive-mcp](https://github.com/R00T-Kim/awesome-offensive-mcp) | 18 | 4 | Other | 2026-01-13 | 2026-01-15 | A curated list of Offensive Security MCP Servers for Red Teaming & Pentesting. |
-| [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) | 933 | 164 | MIT License | 2025-05-03 | 2026-01-13 | A curated list of awesome MCP servers focused on DevOps tools and capabilities. |
+| [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) | 935 | 165 | MIT License | 2025-05-03 | 2026-01-13 | A curated list of awesome MCP servers focused on DevOps tools and capabilities. |
 | [oceanbase/awesome-oceanbase-mcp](https://github.com/oceanbase/awesome-oceanbase-mcp) | 96 | 37 | Apache License 2.0 | 2025-03-19 | 2026-01-13 | MCP Server for OceanBase database and its tools |
-| [e2b-dev/awesome-mcp-gateways](https://github.com/e2b-dev/awesome-mcp-gateways) | 77 | 20 | - | 2025-08-31 | 2026-01-12 | A list of MCP gateways |
+| [e2b-dev/awesome-mcp-gateways](https://github.com/e2b-dev/awesome-mcp-gateways) | 77 | 21 | - | 2025-08-31 | 2026-01-12 | A list of MCP gateways |
 | [lilyth-y/awesome-mcp-servers](https://github.com/lilyth-y/awesome-mcp-servers) | 0 | 0 | MIT License | 2026-01-09 | 2026-01-09 | A collection of MCP servers. |
 | [ever-works/awesome-mcp-servers-data](https://github.com/ever-works/awesome-mcp-servers-data) | 1 | 0 | Creative Commons Attribution Share Alike 4.0 International | 2025-05-14 | 2026-01-07 | machine-readable data for awesome-mcp-servers - https://mcpserver.works |
 | [Tommertom/awesome-ionic-mcp](https://github.com/Tommertom/awesome-ionic-mcp) | 32 | 4 | - | 2025-05-14 | 2026-01-04 | An Awesome MCP Server to help building mobile apps in React/Vue/Angular/VanillaJS using Capacitor and Ionic |
-| [ever-works/awesome-mcp-servers](https://github.com/ever-works/awesome-mcp-servers) | 27 | 7 | Creative Commons Attribution Share Alike 4.0 International | 2025-05-14 | 2026-01-02 | A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. - https://mcpserver.works |
+| [ever-works/awesome-mcp-servers](https://github.com/ever-works/awesome-mcp-servers) | 27 | 8 | Creative Commons Attribution Share Alike 4.0 International | 2025-05-14 | 2026-01-02 | A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. - https://mcpserver.works |
 | [itskiranbabu/awesome-mcp-servers](https://github.com/itskiranbabu/awesome-mcp-servers) | 2 | 0 | MIT License | 2025-12-31 | 2025-12-31 | 🚀 Awesome Model Context Protocol (MCP) - The Ultimate MCP Resource Hub with 100+ servers, AI learning resources, tutorials & best practices - Curated by itskiranbabu - Powered by KeyRun AI |
 | [saifeezibrahim/awesome-devops-mcp-servers-devops-ai](https://github.com/saifeezibrahim/awesome-devops-mcp-servers-devops-ai) | 0 | 0 | MIT License | 2025-12-28 | 2025-12-29 | - |
 | [Bierxiensi/awesome-mcp-servers-cn](https://github.com/Bierxiensi/awesome-mcp-servers-cn) | 0 | 0 | - | 2025-12-22 | 2025-12-22 | - |
 | [lexmin0412/awesome-mcps-for-coding](https://github.com/lexmin0412/awesome-mcps-for-coding) | 1 | 0 | - | 2025-09-14 | 2025-12-21 | Awesome MCPs for coding. |
 | [darkbert781/My-Awesome-MCP-Server](https://github.com/darkbert781/My-Awesome-MCP-Server) | 0 | 0 | - | 2025-12-19 | 2025-12-19 | My Awesome MCP Server - created on ICP Ninja |
-| [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | 3,532 | 718 | MIT License | 2024-11-28 | 2025-12-17 | A curated list of Model Context Protocol (MCP) servers |
+| [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | 3,534 | 721 | MIT License | 2024-11-28 | 2025-12-17 | A curated list of Model Context Protocol (MCP) servers |
 | [hireblackout/awesome-mcp-servers](https://github.com/hireblackout/awesome-mcp-servers) | 2 | 0 | - | 2025-12-16 | 2025-12-16 | Comprehensive curated list of top MCP (Model Context Protocol) servers for AI development. Includes rankings from GitHub downloads, Reddit consensus, and real developer usage patterns. |
 | [mcp-use/awesome-chatgpt-apps](https://github.com/mcp-use/awesome-chatgpt-apps) | 6 | 0 | Apache License 2.0 | 2025-12-16 | 2025-12-16 | A curated list of ChatGPT Apps & templates |
 | [awesome-chibyke/skills-integrate-mcp-with-copilot](https://github.com/awesome-chibyke/skills-integrate-mcp-with-copilot) | 0 | 0 | MIT License | 2025-12-13 | 2025-12-13 | Exercise: Integrate Model Context Protocol with GitHub Copilot |
-| [Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) | 651 | 54 | - | 2025-04-08 | 2025-12-12 | 🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️ |
 | [kawsarlog/awesome-mcp-api](https://github.com/kawsarlog/awesome-mcp-api) | 9 | 1 | - | 2025-12-10 | 2025-12-10 | Curated and continuously growing collection of MCP APIs for AI agents, LLM automation, scraping, DevOps, databases, browser control, and real world AI workflows. |
 | [zk1tty/awesome-webMCP](https://github.com/zk1tty/awesome-webMCP) | 0 | 0 | - | 2025-12-08 | 2025-12-08 | Projects/tempalte leveraging WebMCP |
 | [allsoundlow/awesome_mcps](https://github.com/allsoundlow/awesome_mcps) | 0 | 0 | - | 2025-11-02 | 2025-12-07 | - |
@@ -168,7 +169,7 @@ pie title Repos by License
 | [techiediaries/awesome-mcp](https://github.com/techiediaries/awesome-mcp) | 0 | 0 | - | 2025-09-07 | 2025-09-07 | - |
 | [jinuk0211/awesome-finance-agent-list_mcp](https://github.com/jinuk0211/awesome-finance-agent-list_mcp) | 0 | 0 | - | 2025-09-01 | 2025-09-06 | - |
 | [DeltaForce-Elite-Mods/awesome-mcp-servers](https://github.com/DeltaForce-Elite-Mods/awesome-mcp-servers) | 1 | 0 | - | 2025-06-23 | 2025-09-05 | Delta Force Hacks and Cheats Guide 😊 Python Java Tips |
-| [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | 5,130 | 545 | - | 2024-11-28 | 2025-09-04 | Awesome MCP Servers - A curated list of Model Context Protocol servers |
+| [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | 5,133 | 547 | - | 2024-11-28 | 2025-09-04 | Awesome MCP Servers - A curated list of Model Context Protocol servers |
 | [hodovani/awesome-mcp-tools](https://github.com/hodovani/awesome-mcp-tools) | 1 | 0 | MIT License | 2025-09-04 | 2025-09-04 | - |
 | [rdhandapani88/awesome-mcp-devtools](https://github.com/rdhandapani88/awesome-mcp-devtools) | 0 | 1 | MIT License | 2025-09-02 | 2025-09-02 | - |
 | [rdhandapani88/awesome-mcp-clients](https://github.com/rdhandapani88/awesome-mcp-clients) | 0 | 0 | MIT License | 2025-09-02 | 2025-09-02 | - |
@@ -183,10 +184,9 @@ pie title Repos by License
 | [joypaul162/punkpeye-awesome-mcp-servers](https://github.com/joypaul162/punkpeye-awesome-mcp-servers) | 1 | 0 | MIT License | 2025-08-07 | 2025-08-07 | - |
 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | 863 | 84 | - | 2025-03-24 | 2025-08-07 | A concise list for mcp servers |
 | [P-Faust/awesome-todo-mcp-server](https://github.com/P-Faust/awesome-todo-mcp-server) | 0 | 0 | MIT License | 2025-08-05 | 2025-08-06 | This project is a simple-but-mighty ToDo list server built on the Model Context Protocol (MCP). It acts as a backend for LLM clients (think Gemini or Claude Code/Desktop), giving them a clean, well-defined API to read and update a persistent task list. |
-| [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | 25 | 9 | MIT License | 2025-05-19 | 2026-02-08 | A Curated List of MCP Servers, Clients and Toolkits |
 | [heckcoder/awesome-mcp-server](https://github.com/heckcoder/awesome-mcp-server) | 0 | 0 | - | 2025-07-29 | 2025-07-29 | - |
 | [chiggly007/awesome_copilot_mcp](https://github.com/chiggly007/awesome_copilot_mcp) | 1 | 1 | - | 2025-07-07 | 2025-07-27 | - |
-| [crowdere/Awesome-RE-MCP](https://github.com/crowdere/Awesome-RE-MCP) | 13 | 1 | - | 2025-07-26 | 2025-07-26 | A curated list of reverse engineering tools with MCP servers |
+| [crowdere/Awesome-RE-MCP](https://github.com/crowdere/Awesome-RE-MCP) | 14 | 1 | - | 2025-07-26 | 2025-07-26 | A curated list of reverse engineering tools with MCP servers |
 | [mctrinh/awesome-mcp-servers](https://github.com/mctrinh/awesome-mcp-servers) | 42 | 10 | - | 2025-06-05 | 2025-07-25 | A curated list of excellent Model Context Protocol (MCP) servers. |
 | [tentenco/awesome-agent-mcp](https://github.com/tentenco/awesome-agent-mcp) | 0 | 0 | Other | 2025-07-18 | 2025-07-18 | - |
 | [Eldergenix/Awesome-MCP](https://github.com/Eldergenix/Awesome-MCP) | 2 | 0 | - | 2025-07-17 | 2025-07-17 | Awesome MCP for Web3, DeFi, Crypto and AI persona |
@@ -222,7 +222,7 @@ pie title Repos by License
 | [demcp/awesome-web3-mcp-servers](https://github.com/demcp/awesome-web3-mcp-servers) | 595 | 88 | - | 2025-04-03 | 2025-05-22 | DeMCP is the first Decentralized MCP network, offering SSE proxies for MCP services and mainstream LLMs, tackling trust and security with TEE and blockchain. |
 | [WTFoss/awesome-mcp](https://github.com/WTFoss/awesome-mcp) | 0 | 0 | - | 2025-05-17 | 2025-05-17 | - |
 | [writingmate/awesome-mcp-servers](https://github.com/writingmate/awesome-mcp-servers) | 2 | 0 | - | 2025-03-24 | 2025-05-16 | - |
-| [tuist/awesome-swift-mcp](https://github.com/tuist/awesome-swift-mcp) | 58 | 3 | - | 2025-03-27 | 2025-05-16 | ⚡️ Community resources to bridge Swift development with LLM-based tools |
+| [tuist/awesome-swift-mcp](https://github.com/tuist/awesome-swift-mcp) | 58 | 4 | - | 2025-03-27 | 2025-05-16 | ⚡️ Community resources to bridge Swift development with LLM-based tools |
 | [dedezinholindo/AWESOME-RED-TEAM-MCP-SERVERS](https://github.com/dedezinholindo/AWESOME-RED-TEAM-MCP-SERVERS) | 0 | 0 | - | 2025-05-04 | 2025-05-14 | - |
 | [rajibconf/awesome-devops-mcp-servers](https://github.com/rajibconf/awesome-devops-mcp-servers) | 1 | 0 | - | 2025-05-14 | 2025-05-14 | - |
 | [MCP-Mirror/punkpeye_awesome-mcp-servers](https://github.com/MCP-Mirror/punkpeye_awesome-mcp-servers) | 111 | 19 | MIT License | 2025-01-02 | 2025-05-14 | Mirror of https://github.com/punkpeye/awesome-mcp-servers |
@@ -271,7 +271,7 @@ pie title Repos by License
 | [kushal-wq/enhanced-punkpeye-awesome-mcp-servers-20250402](https://github.com/kushal-wq/enhanced-punkpeye-awesome-mcp-servers-20250402) | 0 | 0 | MIT License | 2025-04-01 | 2025-04-01 | Enhanced version: A collection of MCP servers. |
 | [OrrisTech/awesome-mcp](https://github.com/OrrisTech/awesome-mcp) | 0 | 0 | - | 2025-03-30 | 2025-03-30 | - |
 | [sunanhe/awesome-medical-mcp-servers](https://github.com/sunanhe/awesome-medical-mcp-servers) | 64 | 4 | MIT License | 2025-03-23 | 2025-03-30 | A collection of Medical MCP servers. |
-| [PipedreamHQ/awesome-mcp-servers](https://github.com/PipedreamHQ/awesome-mcp-servers) | 232 | 45 | - | 2025-03-30 | 2025-03-30 | A collection of MCP servers |
+| [PipedreamHQ/awesome-mcp-servers](https://github.com/PipedreamHQ/awesome-mcp-servers) | 233 | 45 | - | 2025-03-30 | 2025-03-30 | A collection of MCP servers |
 | [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) | 80 | 8 | MIT License | 2025-03-28 | 2025-03-28 | A curated list of OSINT MCP servers. Pull requests are welcomed! |
 | [butzhang/awesome-3d-mcp](https://github.com/butzhang/awesome-3d-mcp) | 1 | 0 | Other | 2025-03-27 | 2025-03-27 | A curated list of MCP related to 3d generation |
 | [tangdun2025/awesome_mcp_resources](https://github.com/tangdun2025/awesome_mcp_resources) | 4 | 0 | - | 2025-03-25 | 2025-03-27 | Awesome MCP Resources 是一个专注于收集和整理 Model Context Protocol (MCP) 相关技术资源的开源项目。MCP 作为大模型与上下文交互的重要协议，正在改变 AI 应用的开发方式。本项目致力于为研究人员、开发者和爱好者提供最新的 MCP 技术动态、优质项目、学习资料和实践案例，帮助大家更好地理解和应用 MCP 技术。 |
@@ -279,7 +279,7 @@ pie title Repos by License
 | [habitoai/Awesome-MCP-Servers-directory](https://github.com/habitoai/Awesome-MCP-Servers-directory) | 4 | 4 | MIT License | 2025-03-24 | 2025-03-24 | A comprehensive collection of Model Context Protocol (MCP) servers categorized by functionality. This repository helps developers and AI enthusiasts discover and utilize the wide array of available MCP servers for various applications. |
 | [404digital/awesome-mcp](https://github.com/404digital/awesome-mcp) | 20 | 1 | - | 2025-03-12 | 2025-03-23 | MCP 资源整理中文版 |
 | [sendaifun/awesome-solana-mcp-servers](https://github.com/sendaifun/awesome-solana-mcp-servers) | 51 | 24 | MIT License | 2025-03-06 | 2025-03-20 | - |
-| [xlxxcc/awesome-mcp](https://github.com/xlxxcc/awesome-mcp) | 7 | 3 | - | 2025-03-19 | 2025-03-20 | Awesome Model Context Protocol Servers |
+| [xlxxcc/awesome-mcp](https://github.com/xlxxcc/awesome-mcp) | 7 | 4 | - | 2025-03-19 | 2025-03-20 | Awesome Model Context Protocol Servers |
 | [FLock-io/awesome-web3-mcp](https://github.com/FLock-io/awesome-web3-mcp) | 3 | 3 | MIT License | 2025-03-16 | 2025-03-18 | A collection of awesome MCP implementation in crypto space. |
 | [cryptoleek-team/awesome-solana-mcp](https://github.com/cryptoleek-team/awesome-solana-mcp) | 7 | 4 | - | 2025-03-14 | 2025-03-17 | - |
 | [irisfeng/Awesome-MCP-cases](https://github.com/irisfeng/Awesome-MCP-cases) | 0 | 0 | - | 2025-03-16 | 2025-03-16 | share good MCP experiences |
@@ -301,7 +301,7 @@ pie title Repos by License
 | [esc5221/awesome-awesome-mcp-servers](https://github.com/esc5221/awesome-awesome-mcp-servers) | 1 | 1 | - | 2024-12-04 | 2024-12-04 | A curated list of awesome-mcp-servers (Model Context Protocol server) |
 | [DMontgomery40/awesome-mcp-english](https://github.com/DMontgomery40/awesome-mcp-english) | 2 | 0 | - | 2024-12-02 | 2024-12-02 | - |
 | [win4r/Awesome-Claude-MCP-Servers](https://github.com/win4r/Awesome-Claude-MCP-Servers) | 81 | 11 | MIT License | 2024-12-01 | 2024-12-01 | A curated list of Model Context Protocol (MCP) servers optimized for Claude AI assistants. |
-| [notedit/awesome-mcp-list](https://github.com/notedit/awesome-mcp-list) | 28 | 2 | - | 2024-11-27 | 2024-11-27 | Awesome Model Context Protocol Service List |
+| [notedit/awesome-mcp-list](https://github.com/notedit/awesome-mcp-list) | 28 | 3 | - | 2024-11-27 | 2024-11-27 | Awesome Model Context Protocol Service List |
 | [Julion/awesome-mcp](https://github.com/Julion/awesome-mcp) | 6 | 0 | Creative Commons Zero v1.0 Universal | 2024-11-26 | 2024-11-26 | ⚡ Delightful Model Context Protocol (MCP) resources |
 
 <hr>
@@ -312,6 +312,6 @@ pie title Repos by License
 
 <div align="center">
 
-[![Back to Index](https://img.shields.io/badge/←_Back_to_Index-000?style=flat-square&logo=github)](./README.md)
+[![Back to Index](https://img.shields.io/badge/←_Back_to_Index-0F172A?style=flat-square&logo=github)](./README.md)
 
 </div>
