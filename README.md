@@ -28,8 +28,8 @@
 
 ```mermaid
 pie title Repos by License
-    "No License" : 121
     "MIT" : 99
+    "No License" : 121
     "Other" : 7
     "Creative Commons" : 10
     "Apache 2.0" : 9
